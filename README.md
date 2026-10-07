@@ -27,4 +27,4 @@ Install with:
     
 ## Screenshot
 
-![Visualiser output](fm am synth Screenshot.png)
+![Visualiser output](fm_am_synth_screenshot.png)
