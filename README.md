@@ -1,6 +1,6 @@
 # python-fm-synth
 
-A basic FM/AM synthesiser written in Python with a Tkinter GUI. Set the carrier and modulator waves and visualise/hear the output.
+A basic FM/AM synthesiser written in Python with a Tkinter GUI. Set the carrier and modulator waves and visualise and hear the output.
 
 ## What it does
 
@@ -11,7 +11,7 @@ A basic FM/AM synthesiser written in Python with a Tkinter GUI. Set the carrier 
 
 ## Requirements
 
-- Python 3.13
+- Python 3.13 or later
 - numpy
 - scipy
 - matplotlib
