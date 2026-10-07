@@ -163,7 +163,6 @@ def play_result(carrier_freq_var, carrier_wave_type_var, mod_freq_var, mod_wave_
     mode = mod_type_var.get() # get the value from the combo box
 
     y = gen_result(cf, cw, mf, mw, k, mode) # same processing as play_carrier, calling a different function
-    y = normalise(y)
 
     sd.play(y, sr)
 
